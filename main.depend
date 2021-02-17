@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1426837515 source:c:\users\quentin\desktop\cours\tb7\main\graph.c
+	<windows.h>
+	"glut.h"
+	"graph.h"
+	<stdio.h>
+
+1426541446 c:\users\quentin\desktop\cours\tb7\main\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1426853945 c:\users\quentin\desktop\cours\tb7\main\graph.h
+	"string.h"
+	"stdio.h"
+	<malloc.h>
+	"glut.h"
+	<math.h>
+
+1426837984 source:c:\users\quentin\desktop\cours\tb7\main\main.c
+	"graph.h"
+	<malloc.h>
+	"glut.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1426885703 source:c:\users\quentin\desktop\cours\tb7\main\main.cpp
+	"graph.h"
+	"string.h"
+	"stdio.h"
+	<malloc.h>
+	"glut.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<math.h>
+	<ctype.h>
+
+1426838801 source:c:\users\quentin\desktop\cours\tb7\main\graph.cpp
+	<windows.h>
+	"glut.h"
+	"graph.h"
+	<stdio.h>
+
+1426838801 source:c:\users\wannous\desktop\tb\final(lamey_hoyer_cherkaoui_duthoit_ahayoun_laasmi_maidame_vezilier)\projet_final\graph.cpp
+	<windows.h>
+	"glut.h"
+	"graph.h"
+	<stdio.h>
+
+1426541446 c:\users\wannous\desktop\tb\final(lamey_hoyer_cherkaoui_duthoit_ahayoun_laasmi_maidame_vezilier)\projet_final\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1426853945 c:\users\wannous\desktop\tb\final(lamey_hoyer_cherkaoui_duthoit_ahayoun_laasmi_maidame_vezilier)\projet_final\graph.h
+	"string.h"
+	"stdio.h"
+	<malloc.h>
+	"glut.h"
+	<math.h>
+
+1458028408 source:c:\users\wannous\desktop\tb\final(lamey_hoyer_cherkaoui_duthoit_ahayoun_laasmi_maidame_vezilier)\projet_final\main.cpp
+	"graph.h"
+
+1553177194 source:c:\users\mehdi\desktop\tb7 affichage graphique\partieopegl-cb\graph.cpp
+	<windows.h>
+	"graph.h"
+	<stdio.h>
+
+1553176751 c:\users\mehdi\desktop\tb7 affichage graphique\partieopegl-cb\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1553177123 c:\users\mehdi\desktop\tb7 affichage graphique\partieopegl-cb\graph.h
+	"string.h"
+	"stdio.h"
+	<malloc.h>
+	"glut.h"
+	<math.h>
+
+1553248274 source:c:\users\mehdi\desktop\tb7 affichage graphique\partieopegl-cb\main.cpp
+	"includes.h"
+
+1553269753 source:c:\users\mehdi\desktop\tb7 affichage graphique\partieopegl-cb\affichage.cpp
+	"includes.h"
+
+1553270067 c:\users\mehdi\desktop\tb7 affichage graphique\partieopegl-cb\affichage.h
+	"stdlib.h"
+	<stdio.h>
+	"math.h"
+	"graph.h"
+
+1553110608 c:\users\mehdi\desktop\tb7 affichage graphique\partieopegl-cb\affichage.cpp
+	"stdlib.h"
+	<stdio.h>
+	"graph.h"
+	"Affichage.h"
+	"math.h"
+
+1553172934 source:c:\users\mehdi\desktop\tb7 affichage graphique\partieopegl-cb\affichage.c
+	"Affichage.h"
+	"graph.h"
+
+1553261743 source:c:\users\mehdi\desktop\tb7 affichage graphique\partieopegl-cb\as.cpp
+	"includes.h"
+
+1553257470 c:\users\mehdi\desktop\tb7 affichage graphique\partieopegl-cb\as.h
+	"jeton.h"
+	"AL.h"
+
+1553241436 c:\users\mehdi\desktop\tb7 affichage graphique\partieopegl-cb\jeton.h
+	<stdio.h>
+	<stdlib.h>
+
+1553266770 source:c:\users\mehdi\desktop\tb7 affichage graphique\partieopegl-cb\ev.cpp
+	"includes.h"
+
+1553240351 c:\users\mehdi\desktop\tb7 affichage graphique\partieopegl-cb\ev.h
+	<stdio.h>
+	"jeton.h"
+	"AS.h"
+	<math.h>
+	"ERREUR.h"
+
+1553257452 c:\users\mehdi\desktop\tb7 affichage graphique\partieopegl-cb\erreur.h
+
+1553255294 c:\users\mehdi\desktop\tb7 affichage graphique\partieopegl-cb\includes.h
+	"graph.h"
+	"Affichage.h"
+	"jeton.h"
+	"EV.h"
+	"ERREUR.h"
+	"AS.h"
+	"GLUT.H"
+	"AL.h"
+	"malloc.h"
+
+1553265289 source:c:\users\mehdi\desktop\tb7 affichage graphique\partieopegl-cb\al.cpp
+	"includes.h"
+
+1553260499 c:\users\mehdi\desktop\tb7 affichage graphique\partieopegl-cb\al.h
+	<stdio.h>
+	<stdlib.h>
+
+1553175062 source:c:\users\mehdi\desktop\tb7 affichage graphique\partieopegl-cb\erreur.cpp
+	"ERREUR.h"
+
